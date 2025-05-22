@@ -167,7 +167,6 @@ Taitotalo, Helsinki
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/hafizsalih)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-24292e?logo=githubpages&logoColor=fff)](https://hafida.github.io/Mp-portfolio)
-[![Gmail](https://img.shields.io/badge/-salehhafiz5@gmail.com-D14836?logo=gmail&logoColor=fff)](mailto:salehhafiz5@gmail.com)
 
 ---
 
