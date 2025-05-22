@@ -142,11 +142,11 @@ HEIG-VD, Switzerland _(Jan 2025 – Present)_
 Metropolia University of Applied Sciences, Helsinki  
 _Focus: Software Engineering, web & mobile development_
 
-**Deploma in ICT Specialist**  
+**Vocational Qualification in ICT Specialist**  
 Taitotalo, Helsinki  
 2020–2021
 
-**Deploma in Information and Communication Technology (ICT)**  
+**Vocational Qualification in Information and Communication Technology (ICT)**  
 Taitotalo, Helsinki  
 2018–2020
 
