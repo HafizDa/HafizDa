@@ -12,7 +12,7 @@ A highly motivated Software Engineering student specializing in web and mobile a
 🛠️ Skilled in MERN stack, React.js, Vue.js, OpenLayers, and modern development technologies  
 
 ---
-## 🔥 Current Work
+## 🔥 Current Work &nbsp; ![In Progress](https://img.shields.io/badge/status-in%20progress-yellow)
 
 ### Augmented Reality Historical Images (2025)
 
