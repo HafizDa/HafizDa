@@ -9,7 +9,7 @@ A highly motivated Software Engineering student specializing in web and mobile a
 🎓 Software Engineering student at Metropolia University of Applied Sciences, Helsinki, Finland (Graduation expected Dec 2025)  
 🌍 Currently interning at HEIG-VD, Switzerland (SMAPSHOT - Scientific Mediation Experience)  
 💡 Passionate about intuitive UI/UX design, interactive web & mobile experiences, and Agile collaboration  
-🛠️ Skilled in MERN stack, React.js, Vue.js, OpenLayers, and modern development technologies  
+🛠️ Proficient in the MERN stack (MongoDB, Express.js, React.js, Node.js), Vue.js, OpenLayers, and a variety of modern web and mobile development technologies
 
 ---
 ## 🔥 Current Work &nbsp; ![In Progress](https://img.shields.io/badge/status-in%20progress-yellow)
