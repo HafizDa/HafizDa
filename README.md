@@ -129,7 +129,7 @@ A web-based AR platform that allows users to view historical photos overlaid on 
 ## 💼 Experience
 
 **Intern - Web Developer**  
-HEIG-VD, Switzerland _(Jan 2024 – Present)_  
+HEIG-VD, Switzerland _(Jan 2025 – Present)_  
 • Developing interactive tutorials (Vue.js, React, UI design, gamification)  
 • Agile collaboration in an international team
 
