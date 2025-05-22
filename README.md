@@ -96,7 +96,7 @@ A web-based AR platform that allows users to view historical photos overlaid on 
   - Implemented gamified elements to enhance user engagement
   - Applied UI design principles to build intuitive interfaces
   - Collaborated in an international Agile team  
-  [View Code](https://github.com/HafizDa/snapshot-project) &nbsp;&bull;&nbsp; [Live Demo](https://smapshot-demo-url.com)
+  [View Code](https://gitlab.com/mediacomem/smapshot/smap_checker) &nbsp;&bull;&nbsp; [Live Demo](https://smapshot-beta.heig-vd.ch/geo_game#/)
 
 - **WeatherMate App (2024):**  
   Android app for real-time weather & 7-day forecast  
