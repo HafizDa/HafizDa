@@ -37,7 +37,6 @@ A web-based AR platform that allows users to view historical photos overlaid on 
 ![OpenLayers](https://img.shields.io/badge/-OpenLayers-1F6FEB?logo=OpenStreetMap&logoColor=fff)
 ![A-Frame](https://img.shields.io/badge/-A--Frame-E87114?logo=aframe&logoColor=fff)
 ![Responsive Web Design](https://img.shields.io/badge/-Responsive%20Web%20Design-2396F3?logo=responsive&logoColor=fff)
-![User Interface Design](https://img.shields.io/badge/-UI%20Design-FF4088?logo=figma&logoColor=fff)
 
 **Web APIs & AR Technologies**  
 ![REST API](https://img.shields.io/badge/-REST%20API-005571?logo=api&logoColor=fff)
