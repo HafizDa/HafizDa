@@ -156,9 +156,11 @@ Taitotalo, Helsinki
 
 ## 🌐 Languages
 
-- **Tigrinya:** Native  
-- **English:** Professional  
-- **Finnish:** Professional
+- **Bilen:** Native
+- **Tigrinya:** Professional working proficiency  
+- **English:** Full professional proficiency
+- **Finnish:** Professional working proficiency
+- **Arabic:** Limited working proficiency
 
 ---
 
