@@ -146,6 +146,8 @@ _Focus: Software Engineering, web & mobile development_
 **ICT Specialist (2020–2021)**  
 Taitotalo, Helsinki
 
+** Information and Communication Technology (2018–2020)**  
+Amiedu, Helsinki
 ---
 
 ## 🌐 Languages
