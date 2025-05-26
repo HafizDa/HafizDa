@@ -90,7 +90,7 @@ A web-based AR platform that allows users to view historical photos overlaid on 
 
 - **SMAPSHOT Project (2025):**  
   Internship at HEIG-VD, Switzerland  
-  _Vue.js, UI Design, Gamification, Agile_
+  Vue.js, UI Design, Gamification, Agile_
   - Developed interactive tutorials for scientific mediation and georeferencing
   - Implemented gamified elements to enhance user engagement
   - Applied UI design principles to build intuitive interfaces
