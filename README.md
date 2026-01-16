@@ -25,6 +25,7 @@ A web-based AR platform that allows users to view historical photos overlaid on 
 
 **Key Skills:** React.js, Git, HTML/CSS, Responsive Web Design, REST APIs, OpenLayers, WebXR API, Geolocation API, DeviceOrientation API, MediaDevices API, A-Frame, User Interface Design
 ## 🛠️ Skills
+[Live Demo](https://smapshot-beta.heig-vd.ch/ar_images/discover)
 
 **Frontend Development**  
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=fff)
@@ -96,6 +97,7 @@ A web-based AR platform that allows users to view historical photos overlaid on 
   - Applied UI design principles to build intuitive interfaces
   - Collaborated in an international Agile team  
   [View Code](https://gitlab.com/mediacomem/smapshot/smap_checker) &nbsp;&bull;&nbsp; [Live Demo](https://smapshot-beta.heig-vd.ch/geo_game#/)
+
 
 - **WeatherMate App (2024):**  
   Android app for real-time weather & 7-day forecast  
