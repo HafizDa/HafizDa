@@ -24,6 +24,7 @@ A web-based AR platform that allows users to view historical photos overlaid on 
 - 🗺️ Mapping via **OpenLayers**
 
 **Key Skills:** React.js, Git, HTML/CSS, Responsive Web Design, REST APIs, OpenLayers, WebXR API, Geolocation API, DeviceOrientation API, MediaDevices API, A-Frame, User Interface Design
+
 [Live Demo](https://smapshot-beta.heig-vd.ch/ar_images/discover)
 ## 🛠️ Skills
 
