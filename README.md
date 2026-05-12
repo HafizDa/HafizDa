@@ -6,7 +6,7 @@ A highly motivated Software Engineering student specializing in web and mobile a
 
 ## About Me
 
-🎓 Software Engineering student at Metropolia University of Applied Sciences, Helsinki, Finland (Graduation expected Jan 2026)  
+🎓 Software Engineering student at Metropolia University of Applied Sciences, Helsinki, Finland (Graduated in April 2026)  
 🌍 6-month internship at HEIG-VD, Switzerland (SMAPSHOT - Scientific Mediation Experience)  
 💡 Passionate about intuitive UI/UX design, interactive web & mobile experiences, and Agile collaboration  
 🛠️ Proficient in the MERN stack (MongoDB, Express.js, React.js, Node.js), Vue.js, OpenLayers, and a variety of modern web and mobile development technologies
