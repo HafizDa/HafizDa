@@ -2,7 +2,7 @@
 
 Software Engineer | Full-Stack Developer based in Finland, building web, mobile, and interactive digital experiences.
 
-I work with React, Node.js, JavaScript, TypeScript, Vue.js, PostgreSQL, Kotlin, and Swift. My background includes full-stack web development, mobile app development, and hands-on experience with AR and geolocation-based projects.
+I work with React, Node.js, JavaScript, TypeScript, Vue.js, PostgreSQL, Kotlin, and Swift. My background includes full-stack web development, mobile app development, AR, and geolocation-based projects.
 
 ## About Me
 
