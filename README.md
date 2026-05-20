@@ -127,6 +127,4 @@ Finnish · Professional working proficiency
 Arabic · Limited working proficiency
 
 ## Contact
-
-- GitHub: [github.com/HafizDa](https://github.com/HafizDa)
 - LinkedIn: [linkedin.com/in/hafizsalih](https://www.linkedin.com/in/hafizsalih)
